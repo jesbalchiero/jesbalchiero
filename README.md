@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesbalchiero
 - 👀 I'm interested in improve my programming
-- 🌱 I’m currently learning Javascript and PHP
+- 🌱 I’m currently learning C# and Vue.js
 - 📫 How to reach me jeancarlosbalchiero@outlook.com
 
 <!---
