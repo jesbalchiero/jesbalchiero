@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jesbalchiero
+- 👋 Hi, I’m Jean Sbalchiero
 - 👀 I'm interested in improve my programming
 - 🌱 I’m currently learning C# and Vue.js
 - 📫 How to reach me jeancarlosbalchiero@gmail.com
