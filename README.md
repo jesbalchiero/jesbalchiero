@@ -1,4 +1,4 @@
-<img align="right" height="875em" src="https://raw.githubusercontent.com/gist/jesbalchiero/b9e09f9918617165845a0074732b27ef/raw/a813d36d97b7e0d1818c924c22f3b261fc10078d/github_profile_card.svg" />
+<img align="right" height="440em" src="https://raw.githubusercontent.com/gist/jesbalchiero/b9e09f9918617165845a0074732b27ef/raw/a813d36d97b7e0d1818c924c22f3b261fc10078d/github_profile_card.svg" />
 <h1 align="left">Hi, I'm Jean Sbalchiero</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesbalchiero&color=yellow" alt="Profile views" /> </p>
 
@@ -28,8 +28,8 @@
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=jesbalchiero&show_icons=true&theme=radical&rank_icon=github" />
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&layout=compact&theme=radical" />
+  <img width="400em" height="150em" src="https://github-readme-stats.vercel.app/api?username=jesbalchiero&show_icons=true&theme=radical&rank_icon=github" />
+  <img width="400em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&layout=compact&theme=radical" />
 </p>
 
 ## 👨 Social Links
