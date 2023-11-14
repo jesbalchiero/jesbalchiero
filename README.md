@@ -2,9 +2,9 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesbalchiero&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Mid-Level Web Developer & Mobile enthusiast, focused on helping people start programming 
+- 🔥 Mid-Level Web Developer & Mobile enthusiast, focused on helping people start programming.
 
-- 🔭 I’m currently working at [Conecta Softwares](https://www.conecta.com.br/)
+- 🔭 I’m currently working at [Conecta Softwares](https://www.conecta.com.br/).
 
 ## ⚙️ Tech Stacks
 
@@ -34,6 +34,6 @@
 
 ## 👨 Social Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jesbalchiero/)](https://www.linkedin.com/in/jesbalchiero/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jeancarlosbalchiero@gmail.com)](mailto:jeancarlosbalchiero@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jesbalchiero/)](https://www.linkedin.com/in/jesbalchiero/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jeancarlosbalchiero@gmail.com)](mailto:jeancarlosbalchiero@gmail.com)&nbsp;
 [![Whastapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5554992362380)](https://wa.me/5554992362380)
