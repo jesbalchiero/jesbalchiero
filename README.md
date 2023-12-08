@@ -4,7 +4,7 @@
 
 - 🔥 Mid-Level Web Developer & Mobile enthusiast, focused on helping people start programming.
 
-- 🔭 I’m currently working at [Conecta Softwares](https://www.conecta.com.br/).
+- 🔭 I’m currently working at [Spring](https://springtelecomgroup.com/).
 
 ## ⚙️ Tech Stacks
 
