@@ -2,9 +2,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesbalchiero&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Mid-Level Web Developer & Mobile enthusiast, focused on helping people start programming.
-
-- 🔭 I’m currently working at [Spring](https://springtelecomgroup.com/).
+- 🔥 Senior Web Developer & Mobile enthusiast, focused on helping people start programming.
 
 ## ⚙️ Tech Stacks
 
