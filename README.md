@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I'm 25 years old, from Caxias do Sul and currently searching a job how a Full Stack.
+    I'm 25 years old, from Caxias do Sul and currently searching a job as a Full Stack.
   </em>
 </p>
 
@@ -16,9 +16,9 @@
 
 ### 📊 2024 Goals:
 
-- 📚 I will become a tech lead.
+- 📚 Become a tech lead.
 
-- 📋 Create a personal project that applies all the knowledge obtained throughout my journey, as well as implementing new technologies.
+- 📋 Create a personal project that applies all the knowledge obtained throughout my journey, and implementing new technologies.
 
 ### ⚡ Technologies:
 
