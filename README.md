@@ -2,31 +2,66 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesbalchiero&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Senior Web Developer & Mobile enthusiast, focused on helping people start programming.
+### 🌻 About Me:
 
-## ⚙️ Tech Stacks
-
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&emsp;
-![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)&emsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&emsp;
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&emsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&emsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&emsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&emsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&emsp;
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)&emsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&emsp;
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&emsp;
-
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img width="400em" height="150em" src="https://github-readme-stats.vercel.app/api?username=jesbalchiero&show_icons=true&theme=radical&rank_icon=github" />
-  <img width="400em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&layout=compact&theme=radical" />
+<p>
+  <em>
+    I'm 25 years old, from Caxias do Sul and currently searching a job how a Full Stack.
+  </em>
 </p>
 
-## 👨 Social Links
+- 📚 Studying and improving my skills in NestJS, Go, Software Architecture, Observability and Design Patterns.
+- 🚀 Student at Uniftec and Full Cycle.
+- 📫 My personal email: jeancarlosbalchiero@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jeansbalchiero/)](https://www.linkedin.com/in/jeansbalchiero/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jeancarlosbalchiero@gmail.com)](mailto:jeancarlosbalchiero@gmail.com)&nbsp;
-[![Whastapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5554992362380)](https://wa.me/5554992362380)
+### 📊 2024 Goals:
+
+- 📚 I will become a tech lead.
+
+- 📋 Create a personal project that applies all the knowledge obtained throughout my journey, as well as implementing new technologies.
+
+### ⚡ Technologies:
+
+These are some of the technologies and tools I use:
+
+- Languages
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,go,cs)](https://skillicons.dev)
+
+- Frontend
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,jquery,react,next,angular,vue,nuxtjs,vite,sass,tailwind,bootstrap)](https://skillicons.dev)
+
+- Backend
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=express,nest,dotnet,php,docker,prisma,firebase,supabase,kafka,rabbitmq,graphql)](https://skillicons.dev)
+
+- Database
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite)](https://skillicons.dev)
+
+- Tools
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=azure,git,github,postman,npm,notion,powershell)](https://skillicons.dev)
+
+### 📈 My Statistics
+
+| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=jesbalchiero&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+
+
+| My Streak                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=jesbalchiero&theme=jolly)](https://git.io/streak-stats) |
+
+💬 Want to get in touch?
+
+<div>
+  <a href = "https://open.spotify.com/user/jeancarloo?si=adcde2c32ce04485"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jeansbalchiero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5554992362380&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jeancarlosbalchiero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<br>
+<p>🧠 <span style="font-style:italic">"Learning is the only thing the mind never exhausts, never fears, and never regrets."</span></p>
