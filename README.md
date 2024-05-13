@@ -26,7 +26,7 @@ These are some of the technologies and tools I use:
 
 - Languages
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,go,cs)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,go,cs,php)](https://skillicons.dev)
 
 - Frontend
 
@@ -34,7 +34,7 @@ These are some of the technologies and tools I use:
 
 - Backend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=express,nest,dotnet,php,docker,prisma,firebase,supabase,kafka,rabbitmq,graphql)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=express,nest,dotnet,docker,prisma,firebase,supabase,kafka,rabbitmq,graphql)](https://skillicons.dev)
 
 - Database
 
