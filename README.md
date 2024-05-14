@@ -48,7 +48,7 @@ These are some of the technologies and tools I use:
 
 | My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=jesbalchiero&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=8&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=jesbalchiero&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=6&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
 
 | My Streak                                                                                                                                                             |
