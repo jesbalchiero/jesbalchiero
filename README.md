@@ -24,31 +24,51 @@
 
 These are some of the technologies and tools I use:
 
-- Languages
+- Programming Languages
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,go,cs,php)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=ts,java,py,js,go,cs,php,html,css&theme=dark)](https://skillicons.dev)
 
-- Frontend
+- Back-End Frameworks
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,jquery,react,next,angular,vue,nuxtjs,vite,sass,tailwind,bootstrap)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nest,spring,django,nodejs,express,dotnet,prisma&theme=dark)](https://skillicons.dev)
 
-- Backend
+- Databases
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,nest,dotnet,docker,prisma,firebase,supabase,kafka,rabbitmq,graphql)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase&theme=dark)](https://skillicons.dev)
 
-- Database
+- DevOps
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,git&theme=dark)](https://skillicons.dev)
 
-- Tools
+- Testing
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=azure,git,github,postman,npm,notion,powershell)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=jest,cypress&theme=dark)](https://skillicons.dev)
+
+- Package Managers
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=npm,yarn,bun&theme=dark)](https://skillicons.dev)
+
+- IDEs and Text Editors
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=vscode,idea,visualstudio,androidstudio,eclipse&theme=dark)](https://skillicons.dev)
+
+- Messaging and Communication Tools
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=kafka,rabbitmq,graphql,apollo&theme=dark)](https://skillicons.dev)
+
+- Frontend Frameworks
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=react,next,angular,vue,nuxtjs,vite,jquery,sass,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+
+- Miscellaneous Tools
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=bash,github,postman,heroku,netlify,vercel,notion,powershell,linux,stackoverflow&theme=dark)](https://skillicons.dev)
 
 ### 📈 My Statistics
 
 | My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=jesbalchiero&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=6&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=jesbalchiero&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
 
 | My Streak                                                                                                                                                             |
