@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I'm 25 years old, from Caxias do Sul and currently searching a job as a Full Stack.
+    I'm 25 years old, from Caxias do Sul and currently working as a Back-End Engineer at Grupo GCB.
   </em>
 </p>
 
