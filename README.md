@@ -2,67 +2,6 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesbalchiero&color=yellow" alt="Profile views" /> </p>
 
-### 🌊 About Me:
-
-<p>
-  <em>
-    I'm 25 years old, from Caxias do Sul and currently working as a Back-End Engineer at Grupo GCB.
-  </em>
-</p>
-
-- 📚 Studying and improving my skills in NestJS, Go, Software Architecture, Observability and Design Patterns.
-- 🚀 Student at Uniftec and Full Cycle.
-- 📫 My personal email: jeancarlosbalchiero@gmail.com
-
-### 📊 2024 Goals:
-
-- 📚 Become a tech lead.
-
-- 📋 Create a personal project that applies all the knowledge obtained throughout my journey, and implementing new technologies.
-
-### ⚡ Technologies:
-
-These are some of the technologies and tools I use:
-
-- Programming Languages
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=ts,java,py,js,go,cs,php,html,css&theme=dark)](https://skillicons.dev)
-
-- Back-End Frameworks
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nest,spring,django,nodejs,express,dotnet,prisma&theme=dark)](https://skillicons.dev)
-
-- Databases
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase&theme=dark)](https://skillicons.dev)
-
-- DevOps
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,git&theme=dark)](https://skillicons.dev)
-
-- Testing
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=jest,cypress&theme=dark)](https://skillicons.dev)
-
-- Package Managers
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=npm,yarn,bun&theme=dark)](https://skillicons.dev)
-
-- IDEs and Text Editors
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=vscode,idea,visualstudio,androidstudio,eclipse&theme=dark)](https://skillicons.dev)
-
-- Messaging and Communication Tools
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=kafka,rabbitmq,graphql,apollo&theme=dark)](https://skillicons.dev)
-
-- Frontend Frameworks
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=react,next,angular,vue,nuxtjs,vite,jquery,sass,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
-
-- Miscellaneous Tools
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=bash,github,postman,heroku,netlify,vercel,notion,powershell,linux,stackoverflow&theme=dark)](https://skillicons.dev)
 
 ### 📈 My Statistics
 
