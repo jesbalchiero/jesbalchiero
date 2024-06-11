@@ -24,7 +24,7 @@
 
 ### ⚡ Skills:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=8&count_private=true&hide_border=true&theme=jolly&layout=compact) 
 
 ### 💬 Want to get in touch?
 
