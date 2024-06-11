@@ -9,13 +9,12 @@
 
 <p>
   <em>
-    I'm 25 years old, from Caxias do Sul and currently working as a Mid-level Back-end Engineer at Grupo GCB.
+    I'm 25 years old, from Brazil and currently working as a Mid-level Back-end Engineer at Grupo GCB.
   </em>
 </p>
 
-- 📚 Studying and improving my skills in NestJS, Observability and Design Patterns.
-- 🚀 Student at Uniftec.
-- 📫 My personal email: jeancarlosbalchiero@gmail.com
+- 🚀 Enhancing my skills in TypeScript with NestJS, Go with Gin, C# with .NET Core, Python with Django, and Java with Spring Boot.
+- 📚 Applying principles from 'Refactoring,' 'Clean Code,' 'Working Effectively with Legacy Code,' 'Clean Architecture,' 'Design Patterns,' 'The Phoenix Project,' 'The Unicorn Project,' and 'Atomic Habits.'
 
 ### 📊 2024 Goals:
 
