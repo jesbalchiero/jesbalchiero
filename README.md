@@ -1,6 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Jean+Sbalchiero+;+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesbalchiero&color=yellow" alt="Profile views" /> </p>
+<h1 align='center'>
+  Hello, I'm Jean Sbalchiero!
+  <br/>
+  Welcome to my profile
+</h1>
+<p align='center'>
+  Back-end
+</p>
+
+### 🌊 About Me:
+
+<p>
+  <em>
+    I'm 25 years old, from Caxias do Sul and currently working as a Mid-level Back-end Engineer at Grupo GCB.
+  </em>
+</p>
+
+- 📚 Studying and improving my skills in NestJS, Observability and Design Patterns.
+- 🚀 Student at Uniftec, FIAP and Full Cycle.
+- 📫 My personal email: jeancarlosbalchiero@gmail.com
+
+### 📊 2024 Goals:
+
+- 📚 I will become a Senior Back-end Engineer.
+
+- 📋 Create a personal project that applies all the knowledge obtained throughout my journey, as well as implementing new technologies.
+
+
+| Top Languages                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+
+💬 Want to get in touch?
 
 <div>
   <a href = "https://open.spotify.com/user/jeancarloo?si=adcde2c32ce04485"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
