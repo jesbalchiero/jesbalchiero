@@ -25,11 +25,11 @@
 
 - 📋 Create a personal project that applies all the knowledge obtained throughout my journey, as well as implementing new technologies.
 
-<p align='center'>
+<div align='center'>
   | Top Languages                                                                                                                                                                 |
   | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
   | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)   |
-</p>
+</div>
 
 💬 Want to get in touch?
 
