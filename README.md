@@ -13,7 +13,7 @@
   </em>
 </p>
 
-- 🚀 Enhancing my skills in TypeScript with NestJS, Go with Gin, C# with .NET Core, Javascript with Node.js, Python with Django, and Java with Spring Boot.
+- 🚀 Enhancing my skills in TypeScript with NestJS, Go with Gin and Fiber, C# with .NET Core, .NET Framework, .NET MAUI and Forms, JavaScript (or TypeScript) with Node.js and Express.js, Python with Django, Flask and FastAPI, and Java with Spring Boot.
 - 📚 Applying principles from 'Refactoring', 'Clean Code', 'Working Effectively with Legacy Code', 'Clean Architecture', 'Design Patterns', 'The Phoenix Project', 'The Unicorn Project' and 'Atomic Habits'.
 
 ### 📊 2024 Goals:
