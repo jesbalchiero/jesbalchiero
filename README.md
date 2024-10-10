@@ -9,18 +9,11 @@
 
 <p>
   <em>
-    I'm 25 years old, from Brazil and currently working as a Mid-level Back-end Engineer at Grupo GCB.
+    I'm 25 years old, from Brazil and currently working as a Mid-level Back-end Engineer at Grupo GCB and as Senior Software Engineer at InsideChurch.
   </em>
 </p>
 
-- 🚀 Enhancing my skills in TypeScript with NestJS, Go with Gin and Fiber, C# with .NET Core, .NET Framework, .NET MAUI and Forms, JavaScript (or TypeScript) with Node.js and Express.js, Python with Django, Flask and FastAPI, and Java with Spring Boot.
-- 📚 Applying principles from 'Refactoring', 'Clean Code', 'Working Effectively with Legacy Code', 'Clean Architecture', 'Design Patterns', 'The Phoenix Project', 'The Unicorn Project' and 'Atomic Habits'.
-
-### 📊 2024 Goals:
-
-- 📚 I will become a Senior Back-end Engineer.
-
-- 📋 Create a personal project that applies all the knowledge obtained throughout my journey, as well as implementing new technologies.
+- 🚀 Enhancing my skills in TypeScript with NestJS, Go with Gin and Fiber, C# with .NET Core.
 
 ### ⚡ Skills:
 
