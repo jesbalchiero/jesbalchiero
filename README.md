@@ -9,7 +9,7 @@
 
 <p>
   <em>
-    I'm 25 years old, from Brazil and currently working as a Mid-level Back-end Engineer at Grupo GCB and as Senior Software Engineer at InsideChurch. Enhancing my skills in TypeScript with NestJS, Go with Gin and Fiber, C# with .NET Core. Living like a Digital Nomad.
+    I'm 25 years old, from Brazil and currently working as a Mid-level Back-end Engineer at Grupo GCB and as Tech Lead at InsideChurch. Enhancing my skills in TypeScript with NestJS, Go with Gin and Fiber, C# with .NET Core. Living like a Digital Nomad.
   </em>
 </p>
 
