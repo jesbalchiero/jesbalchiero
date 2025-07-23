@@ -2,14 +2,14 @@
   Hello, I'm Jean Sbalchiero!
 </h1>
 <p align='center'>
-  Back-end Engineer
+  Software Engineer
 </p>
 
 ### 🌊 About Me:
 
 <p>
   <em>
-    I'm 25 years old, from Brazil and currently working as a Mid-level Back-end Engineer at Grupo GCB and as Staff Software Engineer at InsideChurch. Enhancing my skills in Node, Go and C#. Living like a Digital Nomad, traveling the world.
+    I'm 25 years old, from Brazil and currently working as a Founding Engineer at Vulkan Labs (https://github.com/vulkanlabs), InsideChurch (https://github.com/InsideChurch) and GC Analytics (https://github.com/gcanalytics). Enhancing my skills in Go, Python, Node and C#. Living like a Digital Nomad, traveling the world.
   </em>
 </p>
 
