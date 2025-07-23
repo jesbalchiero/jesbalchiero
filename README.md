@@ -5,15 +5,15 @@
   Software Engineer
 </p>
 
-### 🌊 A little about me
+### 🌊 A little about me..
 
 <p>
   <em>
-    I'm 25 years old, from Brazil, with 8 years of experiencie in software developing, and currently working as a Founding Engineer at Vulkan Labs (https://github.com/vulkanlabs), InsideChurch (https://github.com/InsideChurch) and GC Analytics (https://github.com/gcanalytics). Enhancing my skills in Go, Python, Node and C#. Living like a Digital Nomad, traveling the world.
+    I'm 25 years old, from Brazil, with 8 years of experiencie in software development, and currently working as a Founding Engineer at Vulkan Labs (https://github.com/vulkanlabs), InsideChurch (https://github.com/InsideChurch) and GC Analytics (https://github.com/gcanalytics). Enhancing my skills in Go, Python, Node and C#. Living like a Digital Nomad, traveling the world.
   </em>
 </p>
 
-### ⚡ Techs most used in my personal repositories..
+### ⚡ Languages most used in my repositories..
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=8&count_private=true&hide_border=true&theme=jolly&layout=compact) 
 
