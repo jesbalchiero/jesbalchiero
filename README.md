@@ -13,9 +13,9 @@
   </em>
 </p>
 
-### ⚡ Languages most used in my repositories..
+### ⚡ Stats..
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=8&count_private=true&hide_border=true&theme=jolly&layout=compact) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesbalchiero&show_icons=true&theme=jolly)  ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jesbalchiero&theme=jolly)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=8&count_private=true&hide_border=true&theme=jolly&layout=compact)
 
 ### 💬 Get in touch..
 
