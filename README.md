@@ -15,9 +15,6 @@
 
 ### ⚡ Stats..
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesbalchiero&show_icons=true&hide_border=true&theme=jolly&layout=compact) 
-###
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jesbalchiero&hide_border=true&theme=jolly&layout=compact) 
 ###
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=8&count_private=true&hide_border=true&theme=jolly&layout=compact)
 
