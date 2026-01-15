@@ -13,11 +13,6 @@
   </em>
 </p>
 
-### ⚡ Stats..
-
-###
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&langs_count=8&count_private=true&hide_border=true&theme=jolly&layout=compact)
-
 ### 💬 Get in touch..
 
 <div>
