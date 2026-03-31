@@ -5,11 +5,11 @@
   Software Engineer
 </p>
 
-### 🌊 A little about me..
+### 🌊
 
 <p>
   <em>
-    I'm 25 years old, from Brazil, with 8 years of experiencie in software development, and currently working as a Founding Engineer at Vulkan Labs (https://github.com/vulkanlabs) and InsideChurch (https://github.com/InsideChurch), and making some freelas. Enhancing my skills in Go, Python, Node and C#. Living like a Digital Nomad, traveling the world.
+    I'm 26 years old, from Brazil, with ~8 years of experiencie in software development, and currently working as a Founding Engineer at Vulkan Labs (https://github.com/vulkanlabs) and Tech Lead at pebblecore (https://github.com/pebblelabs) building a eco-system for churches . 
   </em>
 </p>
 
