@@ -3,7 +3,7 @@
   # Hi there, I'm Jean 👋
   
   <a href="https://github.com/jeansbalchiero">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Head+of+Engineering+%40Pebble;Founding+Engineer+%40Vulkan+Labs+(Acquired);Hands-on+Software+Architect;Scalable+Multi-tenant+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Head+of+%40Pebble;Founding+Engineer+%40Vulkan+Labs+(Acquired);Hands-on+Software+Architect;Scalable+Multi-tenant+Systems" alt="Typing SVG" />
   </a>
 
   <p>
@@ -23,11 +23,11 @@
 
 ### 🚀 About Me
 
-I am a **T-shaped Software Engineer & Hands-on Tech Leader** with ~10 years of experience turning complex business challenges into scalable, high-performance architectures. I balance high-level architectural design with deep-dive coding, ensuring both code quality and team velocity.
+I am a **T-shaped Software Engineer & Hands-on Leader** with ~10 years of experience turning complex business challenges into scalable, high-performance architectures. I balance high-level architectural design with deep-dive coding, ensuring both code quality and team velocity.
 
 - 🏢 **Currently:** **Head of Engineering** at [**Pebble**](https://github.com/pebblecore), leading the technical vision and engineering team to build a disruptive, multi-tenant ecosystem for churches (competing directly with platforms like Inchurch and Planning Center).
 - 🚀 **Background:** **Founding Engineer** at [**Vulkan Labs**](https://github.com/vulkanlabs), a tech startup successfully acquired by [**Celcoin**](https://www.celcoin.com.br/).
-- 🌍 **Location:** Brazil (Open to Remote International Opportunities).
+- 🌍 **Location:** Brazil .
 
 > **🏆 Architecture & Scalability Focus:** My core expertise lies in designing robust, scalable multi-tenant SaaS platforms. I specialize in building highly available microservices architectures capable of sustaining rapid product growth and heavy loads.
 
@@ -50,7 +50,6 @@ As a T-shaped engineer, I have deep expertise in backend systems and cloud infra
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
-<!--
 ---
 
 ### 📊 GitHub Activity
@@ -58,4 +57,4 @@ As a T-shaped engineer, I have deep expertise in backend systems and cloud infra
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jesbalchiero&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesbalchiero&layout=compact&langs_count=6&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true" alt="Top Languages" />
--->
+</div>
